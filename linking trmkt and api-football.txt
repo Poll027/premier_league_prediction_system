@@ -1,0 +1,111 @@
+1. Typical Transfermarkt Data Columns
+(What you likely have after scraping)
+
+player_name — e.g., Erling Haaland
+
+team_name — e.g., Manchester City
+
+position — e.g., Centre-Forward
+
+age
+
+market_value — e.g., €180m
+
+nationality
+
+contract_until
+
+joined
+
+previous_club
+
+2. API Data Fields You Need to Pull
+(Most football APIs provide these — from standings, fixtures, stats)
+
+A. League Info
+
+league_id (required to fetch standings, fixtures, stats)
+
+league_name
+
+season
+
+B. Team Info
+
+team_id (link between API & Transfermarkt team)
+
+team_name (matches Transfermarkt's team_name after cleaning)
+
+stadium
+
+founded
+
+coach_name
+
+C. Standings Data
+
+rank (current position in league table)
+
+points
+
+matches_played
+
+wins
+
+draws
+
+losses
+
+goals_for
+
+goals_against
+
+goal_difference
+
+D. Fixtures & Results
+
+fixture_id
+
+date
+
+home_team_id, away_team_id
+
+home_score, away_score
+
+status (Finished  Upcoming)
+
+E. Player Stats
+
+player_id (API’s player identifier — useful if you ever want live updates)
+
+player_name (matches Transfermarkt’s player_name after cleaning)
+
+matches_played
+
+goals
+
+assists
+
+yellow_cards
+
+red_cards
+
+minutes_played
+
+shots
+
+pass_accuracy
+
+3. How to Link Transfermarkt Data with API Data
+Transfermarkt Column	API Column to MatchJoin On	Notes
+team_name	team_name (API)	Might need cleaning to match exactly (remove FC, accents, etc.)
+player_name	player_name (API)	Clean special characters, match case-insensitively
+(none in TM dataset)	team_id (API)	Store this after first lookup so you don’t keep matching by name
+(none in TM dataset)	player_id (API)	Store this for live player updates
+market_value	(from TM only)	API usually doesn’t have this
+(none in TM dataset)	standings data	Merge by team_id
+(none in TM dataset)	player stats	Merge by player_id or cleaned player_name + team_id
+
+✅ Next Step for You
+Before you fetch stats from the API, you need a Team & Player ID mapping table.
+That’s your “Rosetta Stone” — once you have it, every API request becomes straightforward.
