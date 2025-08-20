@@ -6,14 +6,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, roc_curve, auc
 
-model = joblib.load('premier_league_predictor.pkl')
-with open('feature_list.json') as f:
+model = joblib.load('project/premier_league_predictor.pkl')
+with open('project/feature_list.json') as f:
     feature_list = json.load(f)
-mapping_dict = joblib.load('team_mapping.pkl')
+mapping_dict = joblib.load('project/team_mapping.pkl')
+master_df = pd.read_csv('project/master_df_final.csv')
+
 ID_TEAM_MAP = {v: k for k, v in mapping_dict.items()}
 teams = list(mapping_dict.keys())
-
-master_df = pd.read_csv('master_df_final.csv')
 
 st.set_page_config(page_title="PL Predictor", layout="wide")
 st.title("Premier League Match Predictor")
@@ -111,21 +111,21 @@ elif page == "Model Evaluation":
     st.header("Model Evaluation")
 
     st.subheader("ROC Curve")
-    st.image("roc_plot.png", use_column_width=True)
+    st.image("project/roc_plot.png", use_column_width=True)
     st.markdown(
         "The ROC Curve shows how well the model distinguishes between home wins and other outcomes. "
         "A curve closer to the top-left means better performance. The area under the curve (AUC) is a summary of this ability."
     )
 
     st.subheader("Confusion Matrix")
-    st.image("pl_conf_mat.png", use_column_width=True)
+    st.image("project/pl_conf_mat.png", use_column_width=True)
     st.markdown(
         "The Confusion Matrix shows how many matches were correctly or incorrectly predicted as home wins or not. "
         "It helps you see where the model makes mistakes and where it gets things right."
     )
 
     st.subheader("Feature Importance")
-    st.image("feat_importance.png", use_column_width=True)
+    st.image("project/feat_importance.png", use_column_width=True)
     st.markdown(
         "This plot ranks the features by how much they influence the model's predictions. "
         "Features at the top are the most important for deciding match outcomes."
