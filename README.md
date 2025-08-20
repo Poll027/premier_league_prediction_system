@@ -14,6 +14,7 @@ Get a prediction (Home Win or Away Win/Draw) with confidence.
 View model evaluation plots (ROC Curve, Confusion Matrix, Feature Importance).
 
 Project Structure:
+
 project/
 │
 ├── dashboard.py                # Main Streamlit app
