@@ -9,7 +9,9 @@ Disclaimer: It does require some deeper understanding of football for some of th
 The dashboard is built with Streamlit and allows users to:
 
 Select home and away teams from a dropdown.
-Enter relevant match and team statistics with helpful explanations.
+Enter relevant match and team statistics with helpful explanations. 
+You would need to get the feature values like I explained. That can be gotten from a Google search
+There are also tooltips in form of question marks to give more explanation on some of the features so users know what they need to look for
 Get a prediction (Home Win or Away Win/Draw) with confidence.
 View model evaluation plots (ROC Curve, Confusion Matrix, Feature Importance).
 
@@ -46,5 +48,7 @@ easily calculated from the internet. Soon I'll add code to input the team's name
 
 License
 This project is licensed under the MIT License.
+
+Disclaimer: It is purely for educational purposes and learning. Predictions should be taken with a pinch of salt.
 
 Feel free to let me know if you want to customize any section or add more details!
