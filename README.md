@@ -6,6 +6,7 @@ It uses historical match data, advanced team statistics, and engineered features
 to forecast whether the home team will win or if the match will result in an away win/draw.
 Disclaimer: It does require some deeper understanding of football for some of the features but they could easily be searched up on the internet for testing purposes.
 
+- The model training code is in the 19-08 jupyter notebook for reference
 The dashboard is built with Streamlit and allows users to:
 
 Select home and away teams from a dropdown.
