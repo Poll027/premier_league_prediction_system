@@ -13,20 +13,6 @@ Enter relevant match and team statistics with helpful explanations.
 Get a prediction (Home Win or Away Win/Draw) with confidence.
 View model evaluation plots (ROC Curve, Confusion Matrix, Feature Importance).
 
-Project Structure:
-
-project/
-│
-├── dashboard.py                # Main Streamlit app
-├── premier_league_predictor.pkl # Trained RandomForest model
-├── feature_list.json           # List of features used by the model
-├── team_mapping.pkl            # Mapping of team names to integer IDs
-├── master_df_final.csv         # Processed dataset used for training/evaluation
-├── roc_plot.png                # ROC curve image for model evaluation
-├── pl_conf_mat.png             # Confusion matrix image for model evaluation
-├── feat_importance.png         # Feature importance image for model evaluation
-├── requirements.txt            # Python dependencies
-
 How to Use:
 1. Online (Recommended)
 Visit the public Streamlit app:
