@@ -1,0 +1,206 @@
+matchday,date,time,Home team,away team,home team final goals,away team final goals,home team halftime goals,away team halftime goals,winner
+,,2000,Manchester United FC,Fulham FC,1,0,0,0,home
+,,1230,Ipswich Town FC,Liverpool FC,0,2,0,0,away
+,,1500,Arsenal FC,Wolverhampton Wanderers FC,2,0,1,0,home
+,,1730,West Ham United FC,Aston Villa FC,1,2,1,1,away
+,,1400,Brentford FC,Crystal Palace FC,2,1,1,0,home
+,,1630,Chelsea FC,Manchester City FC,0,2,0,1,away
+,,2000,Leicester City FC,Tottenham Hotspur FC,1,1,0,1,draw
+,,1230,Brighton & Hove Albion FC,Manchester United FC,2,1,1,0,home
+,,1500,Crystal Palace FC,West Ham United FC,0,2,0,0,away
+,,1730,Aston Villa FC,Arsenal FC,0,2,0,0,away
+,,1400,AFC Bournemouth,Newcastle United FC,1,1,1,0,draw
+,,1630,Liverpool FC,Brentford FC,2,0,1,0,home
+,,1230,Arsenal FC,Brighton & Hove Albion FC,1,1,1,0,draw
+,,1500,Brentford FC,Southampton FC,3,1,1,0,home
+,,1730,West Ham United FC,Manchester City FC,1,3,1,2,away
+,,1330,Chelsea FC,Crystal Palace FC,1,1,1,0,draw
+,,1600,Manchester United FC,Liverpool FC,0,3,0,2,away
+,,1230,Southampton FC,Manchester United FC,0,3,0,2,away
+,,1730,Aston Villa FC,Everton FC,3,2,1,2,home
+,,2000,AFC Bournemouth,Chelsea FC,0,1,0,0,away
+,,1400,Tottenham Hotspur FC,Arsenal FC,0,1,0,0,away
+,,1630,Wolverhampton Wanderers FC,Newcastle United FC,1,2,1,0,away
+,,1230,West Ham United FC,Chelsea FC,0,3,0,2,away
+,,1500,Aston Villa FC,Wolverhampton Wanderers FC,3,1,0,1,home
+,,1400,Brighton & Hove Albion FC,Nottingham Forest FC,2,2,2,1,draw
+,,1630,Manchester City FC,Arsenal FC,2,2,1,2,draw
+,,1230,Newcastle United FC,Manchester City FC,1,1,0,1,draw
+,,1500,Arsenal FC,Leicester City FC,4,2,2,0,home
+,,1730,Wolverhampton Wanderers FC,Liverpool FC,1,2,0,1,away
+,,1400,Ipswich Town FC,Aston Villa FC,2,2,1,2,draw
+,,1630,Manchester United FC,Tottenham Hotspur FC,0,3,0,1,away
+,,2000,AFC Bournemouth,Southampton FC,3,1,3,0,home
+,,1230,Crystal Palace FC,Liverpool FC,0,1,0,1,away
+,,1500,Arsenal FC,Southampton FC,3,1,0,0,home
+,,1630,Brighton & Hove Albion FC,Tottenham Hotspur FC,3,2,0,2,home
+,,1230,Tottenham Hotspur FC,West Ham United FC,4,1,1,1,home
+,,1500,Fulham FC,Aston Villa FC,1,3,1,1,away
+,,1730,AFC Bournemouth,Arsenal FC,2,0,0,0,home
+,,1400,Wolverhampton Wanderers FC,Manchester City FC,1,2,1,1,away
+,,1630,Liverpool FC,Chelsea FC,2,1,1,0,home
+,,2000,Nottingham Forest FC,Crystal Palace FC,1,0,0,0,home
+,,2000,Leicester City FC,Nottingham Forest FC,1,3,1,1,away
+,,1500,Aston Villa FC,AFC Bournemouth,1,1,0,0,draw
+,,1730,Everton FC,Fulham FC,1,1,0,0,draw
+,,1400,Chelsea FC,Newcastle United FC,2,1,1,1,home
+,,1630,Arsenal FC,Liverpool FC,2,2,2,1,draw
+,,1230,Newcastle United FC,Arsenal FC,1,0,1,0,home
+,,1500,AFC Bournemouth,Manchester City FC,2,1,1,0,home
+,,1730,Wolverhampton Wanderers FC,Crystal Palace FC,2,2,0,0,draw
+,,1400,Tottenham Hotspur FC,Aston Villa FC,4,1,0,1,home
+,,1630,Manchester United FC,Chelsea FC,1,1,0,0,draw
+,,2000,Fulham FC,Brentford FC,2,1,0,1,home
+,,1500,Brentford FC,AFC Bournemouth,3,2,1,1,home
+,,1730,Brighton & Hove Albion FC,Manchester City FC,2,1,0,1,home
+,,2000,Liverpool FC,Aston Villa FC,2,0,1,0,home
+,,1400,Manchester United FC,Leicester City FC,3,0,2,0,home
+,,1630,Chelsea FC,Arsenal FC,1,1,0,0,draw
+,,1230,Leicester City FC,Chelsea FC,1,2,0,1,away
+,,1500,AFC Bournemouth,Brighton & Hove Albion FC,1,2,0,1,away
+,,1730,Manchester City FC,Tottenham Hotspur FC,0,4,0,2,away
+,,1400,Southampton FC,Liverpool FC,2,3,1,1,away
+,,1630,Ipswich Town FC,Manchester United FC,1,1,1,1,draw
+,,2000,Newcastle United FC,West Ham United FC,0,2,0,1,away
+,,2000,Brighton & Hove Albion FC,Southampton FC,1,1,1,0,draw
+,,1500,Brentford FC,Leicester City FC,4,1,3,1,home
+,,1730,West Ham United FC,Arsenal FC,2,5,2,5,away
+,,1330,Chelsea FC,Aston Villa FC,3,0,2,0,home
+,,1600,Liverpool FC,Manchester City FC,2,0,1,0,home
+,,1930,Ipswich Town FC,Crystal Palace FC,0,1,0,0,away
+,,2015,Leicester City FC,West Ham United FC,3,1,1,0,home
+,,1930,Everton FC,Wolverhampton Wanderers FC,4,0,2,0,home
+,,2015,Arsenal FC,Manchester United FC,2,0,0,0,home
+,,1930,Fulham FC,Brighton & Hove Albion FC,3,1,1,0,home
+,,2015,AFC Bournemouth,Tottenham Hotspur FC,1,0,1,0,home
+,,1500,Aston Villa FC,Southampton FC,1,0,1,0,home
+,,1730,Manchester United FC,Nottingham Forest FC,2,3,1,1,away
+,,1400,Fulham FC,Arsenal FC,1,1,1,0,draw
+,,1630,Tottenham Hotspur FC,Chelsea FC,3,4,2,1,away
+,,2000,West Ham United FC,Wolverhampton Wanderers FC,2,1,0,0,home
+,,1730,Nottingham Forest FC,Aston Villa FC,2,1,0,0,home
+,,1400,Brighton & Hove Albion FC,Crystal Palace FC,1,3,0,2,away
+,,1630,Manchester City FC,Manchester United FC,1,2,1,0,away
+,,1900,Chelsea FC,Brentford FC,2,1,1,0,home
+,,2000,AFC Bournemouth,West Ham United FC,1,1,0,0,draw
+,,1230,Aston Villa FC,Manchester City FC,2,1,1,0,home
+,,1500,Brentford FC,Nottingham Forest FC,0,2,0,1,away
+,,1730,Crystal Palace FC,Arsenal FC,1,5,1,3,away
+,,1630,Tottenham Hotspur FC,Liverpool FC,3,6,1,3,away
+,,1230,Manchester City FC,Everton FC,1,1,1,1,draw
+,,1730,Wolverhampton Wanderers FC,Manchester United FC,2,0,0,0,home
+,,2000,Liverpool FC,Leicester City FC,3,1,1,1,home
+,,2015,Arsenal FC,Ipswich Town FC,1,0,1,0,home
+,,1430,Leicester City FC,Manchester City FC,0,2,0,1,away
+,,1500,Crystal Palace FC,Southampton FC,2,1,1,1,home
+,,1715,West Ham United FC,Liverpool FC,0,5,0,3,away
+,,1945,Aston Villa FC,Brighton & Hove Albion FC,2,2,1,1,draw
+,,2000,Manchester United FC,Newcastle United FC,0,2,0,2,away
+,,1730,Brentford FC,Arsenal FC,1,3,1,1,away
+,,1230,Tottenham Hotspur FC,Newcastle United FC,1,2,1,2,away
+,,1500,Southampton FC,Brentford FC,0,5,0,1,away
+,,1730,Brighton & Hove Albion FC,Arsenal FC,1,1,0,1,draw
+,,1400,Fulham FC,Ipswich Town FC,2,2,0,1,draw
+,,1630,Liverpool FC,Manchester United FC,2,2,0,0,draw
+,,2000,Wolverhampton Wanderers FC,Nottingham Forest FC,0,3,0,2,away
+,,1930,West Ham United FC,Fulham FC,3,2,2,0,home
+,,2000,Nottingham Forest FC,Liverpool FC,1,1,1,0,draw
+,,1930,Everton FC,Aston Villa FC,0,1,0,0,away
+,,2000,Arsenal FC,Tottenham Hotspur FC,2,1,2,1,home
+,,1930,Ipswich Town FC,Brighton & Hove Albion FC,0,2,0,0,away
+,,2000,Manchester United FC,Southampton FC,3,1,0,1,home
+,,1230,Newcastle United FC,AFC Bournemouth,1,4,1,2,away
+,,1500,West Ham United FC,Crystal Palace FC,0,2,0,0,away
+,,1730,Arsenal FC,Aston Villa FC,2,2,1,0,draw
+,,1400,Manchester United FC,Brighton & Hove Albion FC,1,3,1,1,away
+,,1630,Ipswich Town FC,Manchester City FC,0,6,0,3,away
+,,2000,Chelsea FC,Wolverhampton Wanderers FC,3,1,1,1,home
+,,1500,Liverpool FC,Ipswich Town FC,4,1,3,0,home
+,,1730,Manchester City FC,Chelsea FC,3,1,1,1,home
+,,1400,Crystal Palace FC,Brentford FC,1,2,0,0,away
+,,1630,Aston Villa FC,West Ham United FC,1,1,1,0,draw
+,,1900,Fulham FC,Manchester United FC,0,1,0,0,away
+,,1230,Nottingham Forest FC,Brighton & Hove Albion FC,7,0,3,0,home
+,,1500,Newcastle United FC,Fulham FC,1,2,1,0,away
+,,1730,Wolverhampton Wanderers FC,Aston Villa FC,2,0,1,0,home
+,,1400,Manchester United FC,Crystal Palace FC,0,2,0,0,away
+,,1630,Arsenal FC,Manchester City FC,5,1,1,0,home
+,,2000,Chelsea FC,West Ham United FC,2,1,0,1,home
+,,1930,Everton FC,Liverpool FC,2,2,1,1,draw
+,,2000,Brighton & Hove Albion FC,Chelsea FC,3,0,2,0,home
+,,1230,Leicester City FC,Arsenal FC,0,2,0,0,away
+,,1500,Southampton FC,AFC Bournemouth,1,3,0,2,away
+,,1730,Crystal Palace FC,Everton FC,1,2,0,1,away
+,,1400,Liverpool FC,Wolverhampton Wanderers FC,2,1,2,0,home
+,,1630,Tottenham Hotspur FC,Manchester United FC,1,0,1,0,home
+,,1930,Aston Villa FC,Liverpool FC,2,2,2,1,draw
+,,2000,Leicester City FC,Brentford FC,0,4,0,3,away
+,,1230,Everton FC,Manchester United FC,2,2,2,0,draw
+,,1500,Ipswich Town FC,Tottenham Hotspur FC,1,4,1,2,away
+,,1730,Aston Villa FC,Chelsea FC,2,1,0,1,home
+,,1400,Newcastle United FC,Nottingham Forest FC,4,3,4,1,home
+,,1630,Manchester City FC,Liverpool FC,0,2,0,2,away
+,,1930,Brighton & Hove Albion FC,AFC Bournemouth,2,1,1,0,home
+,,2015,Chelsea FC,Southampton FC,4,0,3,0,home
+,,2015,Liverpool FC,Newcastle United FC,2,0,1,0,home
+,,2000,West Ham United FC,Leicester City FC,2,0,2,0,home
+,,1230,Nottingham Forest FC,Manchester City FC,1,0,0,0,home
+,,1500,Brighton & Hove Albion FC,Fulham FC,2,1,1,1,home
+,,1730,Brentford FC,Aston Villa FC,0,1,0,0,away
+,,2000,Wolverhampton Wanderers FC,Everton FC,1,1,1,1,draw
+,,1400,Tottenham Hotspur FC,AFC Bournemouth,2,2,0,1,draw
+,,1630,Manchester United FC,Arsenal FC,1,1,1,0,draw
+,,2000,West Ham United FC,Newcastle United FC,0,1,0,0,away
+,,1500,Everton FC,West Ham United FC,1,1,0,0,draw
+,,1730,AFC Bournemouth,Brentford FC,1,2,1,1,away
+,,1330,Arsenal FC,Chelsea FC,1,0,1,0,home
+,,1900,Leicester City FC,Manchester United FC,0,3,0,1,away
+,,1945,Arsenal FC,Fulham FC,2,1,1,0,home
+,,2000,Nottingham Forest FC,Manchester United FC,1,0,1,0,home
+,,1945,AFC Bournemouth,Ipswich Town FC,1,2,0,1,away
+,,2000,Liverpool FC,Everton FC,1,0,0,0,home
+,,2000,Chelsea FC,Tottenham Hotspur FC,1,0,0,0,home
+,,1230,Everton FC,Arsenal FC,1,1,0,1,draw
+,,1500,Crystal Palace FC,Brighton & Hove Albion FC,2,1,1,1,home
+,,1730,Aston Villa FC,Nottingham Forest FC,2,1,2,0,home
+,,2000,Leicester City FC,Newcastle United FC,0,3,0,3,away
+,,1230,Manchester City FC,Crystal Palace FC,5,2,2,2,home
+,,1500,Brighton & Hove Albion FC,Leicester City FC,2,2,1,1,draw
+,,1730,Arsenal FC,Brentford FC,1,1,0,0,draw
+,,1400,Chelsea FC,Ipswich Town FC,2,2,0,2,draw
+,,1630,Newcastle United FC,Manchester United FC,4,1,1,1,home
+,,2000,AFC Bournemouth,Fulham FC,1,0,1,0,home
+,,1930,Newcastle United FC,Crystal Palace FC,5,0,4,0,home
+,,1500,Brentford FC,Brighton & Hove Albion FC,4,2,1,1,home
+,,1730,Aston Villa FC,Newcastle United FC,4,1,1,1,home
+,,1400,Fulham FC,Chelsea FC,1,2,1,0,away
+,,1630,Leicester City FC,Liverpool FC,0,1,0,0,away
+,,2000,Tottenham Hotspur FC,Nottingham Forest FC,1,2,0,2,away
+,,2000,Manchester City FC,Aston Villa FC,2,1,1,1,home
+,,2000,Arsenal FC,Crystal Palace FC,2,2,2,1,draw
+,,1230,Chelsea FC,Everton FC,1,0,1,0,home
+,,1500,Brighton & Hove Albion FC,West Ham United FC,3,2,1,0,home
+,,1400,AFC Bournemouth,Manchester United FC,1,1,1,0,draw
+,,1630,Liverpool FC,Tottenham Hotspur FC,5,1,3,1,home
+,,1930,Nottingham Forest FC,Brentford FC,0,2,0,1,away
+,,2000,Manchester City FC,Wolverhampton Wanderers FC,1,0,1,0,home
+,,1230,Aston Villa FC,Fulham FC,1,0,1,0,home
+,,1500,Everton FC,Ipswich Town FC,2,2,2,1,draw
+,,1730,Arsenal FC,AFC Bournemouth,1,2,1,0,away
+,,1400,Brentford FC,Manchester United FC,4,3,2,1,home
+,,1630,Chelsea FC,Liverpool FC,3,1,1,0,home
+,,2000,Crystal Palace FC,Nottingham Forest FC,1,1,0,0,draw
+,,1500,Fulham FC,Everton FC,1,3,1,1,away
+,,1730,AFC Bournemouth,Aston Villa FC,0,1,0,1,away
+,,1200,Newcastle United FC,Chelsea FC,2,0,1,0,home
+,,1415,Manchester United FC,West Ham United FC,0,2,0,1,away
+,,1630,Liverpool FC,Arsenal FC,2,2,2,0,draw
+,,1930,Aston Villa FC,Tottenham Hotspur FC,2,0,0,0,home
+,,2015,Chelsea FC,Manchester United FC,1,0,0,0,home
+,,1200,Everton FC,Southampton FC,2,0,2,0,home
+,,1415,West Ham United FC,Nottingham Forest FC,1,2,0,1,away
+,,1500,Brentford FC,Fulham FC,2,3,2,1,away
+,,1630,Arsenal FC,Newcastle United FC,1,0,0,0,home
+,,2000,Brighton & Hove Albion FC,Liverpool FC,3,2,1,2,home
+,,2000,Crystal Palace FC,Wolverhampton Wanderers FC,4,2,2,1,home
+,,1600,AFC Bournemouth,Leicester City FC,2,0,0,0,home

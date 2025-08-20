@@ -1,0 +1,367 @@
+Season,Rank,Player,Club(s),Goals
+1992-1993,1.0,Teddy Sheringham,Nottingham Forest/Tottenham Hotspur,22.0
+1992-1993,2.0,Les Ferdinand,Queens Park Rangers,20.0
+1992-1993,3.0,Dean Holdsworth,Wimbledon F.C.,19.0
+1992-1993,4.0,Micky Quinn,Coventry City,17.0
+1992-1993,5.0,Alan Shearer,Blackburn Rovers,16.0
+1992-1993,5.0,David White,Manchester City,16.0
+1992-1993,7.0,Chris Armstrong,Crystal Palace,15.0
+1992-1993,7.0,Eric Cantona,Leeds United/Manchester United,15.0
+1992-1993,7.0,Brian Deane,Sheffield United,15.0
+1992-1993,7.0,Mark Hughes,Manchester United,15.0
+1992-1993,7.0,Matt Le Tissier,Southampton,15.0
+1992-1993,7.0,Mark Robins,Norwich City,15.0
+1992-1993,7.0,Ian Wright,Arsenal,15.0
+1993-1994,1.0,Andy Cole,Newcastle United,34.0
+1993-1994,2.0,Alan Shearer,Blackburn Rovers,31.0
+1993-1994,3.0,Matt Le Tissier,Southampton,25.0
+1993-1994,3.0,Chris Sutton,Norwich City,25.0
+1993-1994,5.0,Ian Wright,Arsenal,23.0
+1993-1994,6.0,Peter Beardsley,Newcastle United,20.0
+1993-1994,7.0,Mark Bright,Sheffield Wednesday,19.0
+1993-1994,8.0,Eric Cantona,Manchester United,18.0
+1993-1994,9.0,Dean Holdsworth,Wimbledon,17.0
+1993-1994,9.0,Rod Wallace,Leeds United,17.0
+1993-1994,10.0,Tony Cottee,Everton,16.0
+1993-1994,10.0,Les Ferdinand,Queens Park Rangers,16.0
+1994-1995,1.0,Alan Shearer,Blackburn Rovers,34.0
+1994-1995,2.0,Robbie Fowler,Liverpool,25.0
+1994-1995,3.0,Les Ferdinand,Queens Park Rangers,24.0
+1994-1995,4.0,Stan Collymore,Nottingham Forest,22.0
+1994-1995,5.0,Andy Cole,Newcastle United / Manchester United,21.0
+1994-1995,5.0,Jürgen Klinsmann,Tottenham Hotspur,21.0
+1994-1995,7.0,Matt Le Tissier,Southampton,19.0
+1994-1995,8.0,Teddy Sheringham,Tottenham Hotspur,18.0
+1994-1995,8.0,Ian Wright,Arsenal,18.0
+1994-1995,10.0,Uwe Rösler,Manchester City,15.0
+1994-1995,10.0,Dean Saunders,Aston Villa,15.0
+1994-1995,10.0,Chris Sutton,Blackburn Rovers,15.0
+1995-1996,1.0,Alan Shearer,Blackburn Rovers,31.0
+1995-1996,2.0,Robbie Fowler,Liverpool,28.0
+1995-1996,3.0,Les Ferdinand,Newcastle United,25.0
+1995-1996,4.0,Dwight Yorke,Aston Villa,17.0
+1995-1996,5.0,Andrei Kanchelskis,Everton,16.0
+1995-1996,5.0,Teddy Sheringham,Tottenham Hotspur,16.0
+1995-1996,7.0,Chris Armstrong,Tottenham Hotspur,15.0
+1995-1996,7.0,Ian Wright,Arsenal,15.0
+1995-1996,9.0,Eric Cantona,Manchester United,14.0
+1995-1996,9.0,Stan Collymore,Liverpool,14.0
+1995-1996,9.0,Dion Dublin,Coventry City,14.0
+1996-1997,1.0,Alan Shearer,Newcastle United,25.0
+1996-1997,2.0,Ian Wright,Arsenal,23.0
+1996-1997,3.0,Robbie Fowler,Liverpool,18.0
+1996-1997,3.0,Ole Gunnar Solskjær,Manchester United,18.0
+1996-1997,5.0,Dwight Yorke,Aston Villa,17.0
+1996-1997,6.0,Les Ferdinand,Newcastle United,16.0
+1996-1997,6.0,Fabrizio Ravanelli,Middlesbrough,16.0
+1996-1997,8.0,Dion Dublin,Coventry City,13.0
+1996-1997,8.0,Matt Le Tissier,Southampton,13.0
+1996-1997,10.0,Dennis Bergkamp,Arsenal,12.0
+1996-1997,10.0,Steve Claridge,Leicester City,12.0
+1996-1997,10.0,Stan Collymore,Liverpool,12.0
+1996-1997,10.0,Juninho,Middlesbrough,12.0
+1997-1998,1.0,Dion Dublin,Coventry City,18.0
+1997-1998,1.0,Michael Owen,Liverpool,18.0
+1997-1998,1.0,Chris Sutton,Blackburn Rovers,18.0
+1997-1998,4.0,Dennis Bergkamp,Arsenal,16.0
+1997-1998,4.0,Kevin Gallacher,Blackburn Rovers,16.0
+1997-1998,4.0,Jimmy Floyd Hasselbaink,Leeds United,16.0
+1997-1998,7.0,Andy Cole,Manchester United,15.0
+1997-1998,7.0,John Hartson,West Ham United,15.0
+1997-1998,9.0,Darren Huckerby,Coventry City,14.0
+1997-1998,10.0,Paulo Wanchope,Derby County,13.0
+1998-1999,1.0,Jimmy Floyd Hasselbaink,Leeds United,18.0
+1998-1999,1.0,Michael Owen,Liverpool,18.0
+1998-1999,1.0,Dwight Yorke,Manchester United,18.0
+1998-1999,4.0,Nicolas Anelka,Arsenal,17.0
+1998-1999,4.0,Andy Cole,Manchester United,17.0
+1998-1999,6.0,Hamilton Ricard,Middlesbrough,15.0
+1998-1999,7.0,Dion Dublin,Aston Villa,14.0
+1998-1999,7.0,Robbie Fowler,Liverpool,14.0
+1998-1999,7.0,Julian Joachim,Aston Villa,14.0
+1998-1999,7.0,Alan Shearer,Newcastle United,14.0
+1999-2000,1.0,Kevin Phillips,Sunderland,30.0
+1999-2000,2.0,Alan Shearer,Newcastle United,23.0
+1999-2000,3.0,Dwight Yorke,Manchester United,20.0
+1999-2000,4.0,Michael Bridges,Leeds United,19.0
+1999-2000,4.0,Andy Cole,Manchester United,19.0
+1999-2000,6.0,Thierry Henry,Arsenal,17.0
+1999-2000,7.0,Paolo Di Canio,West Ham United,16.0
+1999-2000,8.0,Chris Armstrong,Tottenham Hotspur,14.0
+1999-2000,8.0,Steffen Iversen,Tottenham Hotspur,14.0
+1999-2000,8.0,Niall Quinn,Sunderland,14.0
+2000-2001,1.0,Jimmy Floyd Hasselbaink,Chelsea,23.0
+2000-2001,2.0,Marcus Stewart,Ipswich Town,19.0
+2000-2001,3.0,Thierry Henry,Arsenal,17.0
+2000-2001,3.0,Mark Viduka,Leeds United,17.0
+2000-2001,5.0,Michael Owen,Liverpool,16.0
+2000-2001,6.0,Teddy Sheringham,Manchester United,15.0
+2000-2001,7.0,Emile Heskey,Liverpool,14.0
+2000-2001,7.0,Kevin Phillips,Sunderland,14.0
+2000-2001,9.0,Alen Bokšić,Middlesbrough,12.0
+2000-2001,10.0,James Beattie,Southampton,11.0
+2000-2001,10.0,Jonatan Johansson,Charlton Athletic,11.0
+2000-2001,10.0,Frédéric Kanouté,West Ham United,11.0
+2000-2001,10.0,Gustavo Poyet,Chelsea,11.0
+2000-2001,10.0,Alan Smith,Leeds United,11.0
+2001-2002,1.0,Thierry Henry,Arsenal,24.0
+2001-2002,2.0,Jimmy Floyd Hasselbaink,Chelsea,23.0
+2001-2002,2.0,Ruud van Nistelrooy,Manchester United,23.0
+2001-2002,2.0,Alan Shearer,Newcastle United,23.0
+2001-2002,5.0,Michael Owen,Liverpool,19.0
+2001-2002,6.0,Ole Gunnar Solskjær,Manchester United,17.0
+2001-2002,7.0,Robbie Fowler,Liverpool / Leeds United,15.0
+2001-2002,8.0,Eiður Guðjohnsen,Chelsea,14.0
+2001-2002,8.0,Marians Pahars,Southampton,14.0
+2001-2002,10.0,Andy Cole,Manchester United,13.0
+2002-2003,1.0,Ruud van Nistelrooy,Manchester United,25.0
+2002-2003,2.0,Thierry Henry,Arsenal,24.0
+2002-2003,3.0,James Beattie,Southampton,23.0
+2002-2003,4.0,Mark Viduka,Leeds United,20.0
+2002-2003,5.0,Michael Owen,Liverpool,19.0
+2002-2003,6.0,Alan Shearer,Newcastle United,17.0
+2002-2003,7.0,Nicolas Anelka,Manchester City,15.0
+2002-2003,8.0,Harry Kewell,Leeds United,14.0
+2002-2003,8.0,Robert Pires,Arsenal,14.0
+2002-2003,8.0,Paul Scholes,Manchester United,14.0
+2002-2003,8.0,Gianfranco Zola,Chelsea,14.0
+2003-2004,1.0,Thierry Henry,Arsenal,30.0
+2003-2004,2.0,Alan Shearer,Newcastle United,22.0
+2003-2004,3.0,Louis Saha,Manchester United /Fulham,20.0
+2003-2004,3.0,Ruud van Nistelrooy,Manchester United,20.0
+2003-2004,5.0,Mikael Forssell,Birmingham City,17.0
+2003-2004,6.0,Nicolas Anelka,Manchester City,16.0
+2003-2004,6.0,Juan Pablo Ángel,Aston Villa,16.0
+2003-2004,6.0,Michael Owen,Liverpool,16.0
+2003-2004,6.0,Yakubu,Portsmouth,16.0
+2003-2004,10.0,James Beattie,Southampton,14.0
+2004-2005,1.0,Thierry Henry,Arsenal,25.0
+2004-2005,2.0,Andy Johnson,Crystal Palace,21.0
+2004-2005,3.0,Robert Pires,Arsenal,14.0
+2004-2005,4.0,Jermain Defoe,Tottenham Hotspur,13.0
+2004-2005,4.0,Jimmy Floyd Hasselbaink,Middlesbrough,13.0
+2004-2005,4.0,Frank Lampard,Chelsea,13.0
+2004-2005,4.0,Yakubu,Portsmouth,13.0
+2004-2005,8.0,Andy Cole,Fulham,12.0
+2004-2005,8.0,Peter Crouch,Southampton,12.0
+2004-2005,8.0,Eiður Guðjohnsen,Chelsea,12.0
+2005-2006,1.0,Thierry Henry,Arsenal,27.0
+2005-2006,2.0,Ruud van Nistelrooy,Manchester United,21.0
+2005-2006,3.0,Darren Bent,Charlton Athletic,18.0
+2005-2006,4.0,Robbie Keane,Tottenham Hotspur,16.0
+2005-2006,4.0,Frank Lampard,Chelsea,16.0
+2005-2006,4.0,Wayne Rooney,Manchester United,16.0
+2005-2006,7.0,Marlon Harewood,West Ham United,14.0
+2005-2006,8.0,Craig Bellamy,Blackburn Rovers,13.0
+2005-2006,8.0,Yakubu,Middlesbrough,13.0
+2005-2006,10.0,Henri Camara,Wigan Athletic,12.0
+2005-2006,10.0,Didier Drogba,Chelsea,12.0
+2006-2007,1.0,Didier Drogba,Chelsea,20.0
+2006-2007,2.0,Benni McCarthy,Blackburn Rovers,18.0
+2006-2007,3.0,Cristiano Ronaldo,Manchester United,17.0
+2006-2007,4.0,Wayne Rooney,Manchester United,14.0
+2006-2007,4.0,Mark Viduka,Middlesbrough,14.0
+2006-2007,6.0,Darren Bent,Charlton Athletic,13.0
+2006-2007,6.0,Kevin Doyle,Reading,13.0
+2006-2007,8.0,Dimitar Berbatov,Tottenham Hotspur,12.0
+2006-2007,8.0,Dirk Kuyt,Liverpool,12.0
+2006-2007,8.0,Yakubu,Middlesbrough,12.0
+2007-2008,1.0,Cristiano Ronaldo,Manchester United,31.0
+2007-2008,2.0,Emmanuel Adebayor,Arsenal,24.0
+2007-2008,2.0,Fernando Torres,Liverpool,24.0
+2007-2008,4.0,Roque Santa Cruz,Blackburn Rovers,19.0
+2007-2008,5.0,Benjani,Portsmouth / Manchester City,15.0
+2007-2008,5.0,Dimitar Berbatov,Tottenham Hotspur,15.0
+2007-2008,5.0,Robbie Keane,Tottenham Hotspur,15.0
+2007-2008,5.0,Yakubu,Everton,15.0
+2007-2008,9.0,Carlos Tevez,Manchester United,14.0
+2007-2008,10.0,John Carew,Aston Villa,13.0
+2008-2009,1.0,Nicolas Anelka,Chelsea,19.0
+2008-2009,2.0,Cristiano Ronaldo,Manchester United,18.0
+2008-2009,3.0,Steven Gerrard,Liverpool,16.0
+2008-2009,4.0,Robinho,Manchester City,14.0
+2008-2009,4.0,Fernando Torres,Liverpool,14.0
+2008-2009,6.0,Gabriel Agbonlahor,Aston Villa,12.0
+2008-2009,6.0,Darren Bent,Tottenham Hotspur,12.0
+2008-2009,6.0,Kevin Davies,Bolton Wanderers,12.0
+2008-2009,6.0,Dirk Kuyt,Liverpool,12.0
+2008-2009,6.0,Frank Lampard,Chelsea,12.0
+2008-2009,6.0,Wayne Rooney,Manchester United,12.0
+2009-2010,1.0,Didier Drogba,Chelsea,29.0
+2009-2010,2.0,Wayne Rooney,Manchester United,26.0
+2009-2010,3.0,Darren Bent,Sunderland,24.0
+2009-2010,4.0,Carlos Tevez,Manchester City,23.0
+2009-2010,5.0,Frank Lampard,Chelsea,22.0
+2009-2010,6.0,Jermain Defoe,Tottenham Hotspur,18.0
+2009-2010,6.0,Fernando Torres,Liverpool,18.0
+2009-2010,8.0,Cesc Fàbregas,Arsenal,15.0
+2009-2010,9.0,Emmanuel Adebayor,Manchester City,14.0
+2009-2010,10.0,Gabriel Agbonlahor,Aston Villa,13.0
+2009-2010,10.0,Louis Saha,Everton,13.0
+2010-2011,1.0,Dimitar Berbatov,Manchester United,20.0
+2010-2011,1.0,Carlos Tevez,Manchester City,20.0
+2010-2011,3.0,Robin van Persie,Arsenal,18.0
+2010-2011,4.0,Darren Bent,Sunderland / Aston Villa,17.0
+2010-2011,5.0,Peter Odemwingie,West Bromwich Albion,15.0
+2010-2011,6.0,DJ Campbell,Blackpool,13.0
+2010-2011,6.0,Andy Carroll,Newcastle United / Liverpool,13.0
+2010-2011,6.0,Javier Hernández,Manchester United,13.0
+2010-2011,6.0,Dirk Kuyt,Liverpool,13.0
+2010-2011,6.0,Florent Malouda,Chelsea,13.0
+2010-2011,6.0,Rafael van der Vaart,Tottenham Hotspur,13.0
+2011-2012,1.0,Robin van Persie,Arsenal,30.0
+2011-2012,2.0,Wayne Rooney,Manchester United,27.0
+2011-2012,3.0,Sergio Agüero,Manchester City,23.0
+2011-2012,4.0,Clint Dempsey,Fulham,17.0
+2011-2012,4.0,Emmanuel Adebayor,Tottenham Hotspur,17.0
+2011-2012,4.0,Yakubu,Blackburn,17.0
+2011-2012,7.0,Demba Ba,Newcastle United,16.0
+2011-2012,8.0,Grant Holt,Norwich City,15.0
+2011-2012,9.0,Edin Džeko,Manchester City,14.0
+2011-2012,10.0,Mario Balotelli,Manchester City,13.0
+2011-2012,10.0,Papiss Cissé,Newcastle United,13.0
+2012-2013,1.0,Robin van Persie,Manchester United,26.0
+2012-2013,2.0,Luis Suárez,Liverpool,23.0
+2012-2013,3.0,Gareth Bale,Tottenham Hotspur,21.0
+2012-2013,4.0,Christian Benteke,Aston Villa,19.0
+2012-2013,5.0,Michu,Swansea City,18.0
+2012-2013,6.0,Romelu Lukaku,West Bromwich Albion,17.0
+2012-2013,7.0,Demba Ba,Chelsea / Newcastle United,15.0
+2012-2013,7.0,Dimitar Berbatov,Fulham,15.0
+2012-2013,7.0,Rickie Lambert,Southampton,15.0
+2012-2013,7.0,Frank Lampard,Chelsea,15.0
+2013-2014,1.0,Luis Suárez,Liverpool,31.0
+2013-2014,2.0,Daniel Sturridge,Liverpool,21.0
+2013-2014,3.0,Yaya Touré,Manchester City,20.0
+2013-2014,4.0,Sergio Agüero,Manchester City,17.0
+2013-2014,4.0,Wayne Rooney,Manchester United,17.0
+2013-2014,6.0,Wilfried Bony,Swansea City,16.0
+2013-2014,6.0,Edin Džeko,Manchester City,16.0
+2013-2014,6.0,Olivier Giroud,Arsenal,16.0
+2013-2014,9.0,Romelu Lukaku,Everton,15.0
+2013-2014,9.0,Jay Rodriguez,Southampton,15.0
+2014-2015,1.0,Sergio Agüero,Manchester City,26.0
+2014-2015,2.0,Harry Kane,Tottenham Hotspur,21.0
+2014-2015,3.0,Diego Costa,Chelsea,20.0
+2014-2015,4.0,Charlie Austin,Queens Park Rangers,18.0
+2014-2015,5.0,Alexis Sánchez,Arsenal,16.0
+2014-2015,6.0,Saido Berahino,West Bromwich Albion,14.0
+2014-2015,6.0,Olivier Giroud,Arsenal,14.0
+2014-2015,6.0,Eden Hazard,Chelsea,14.0
+2014-2015,9.0,Christian Benteke,Aston Villa,13.0
+2014-2015,10.0,Graziano Pellè,Southampton,12.0
+2014-2015,10.0,Wayne Rooney,Manchester United,12.0
+2014-2015,10.0,David Silva,Manchester City,12.0
+2015-2016,1.0,Harry Kane,Tottenham Hotspur,25.0
+2015-2016,2.0,Sergio Agüero,Manchester City,24.0
+2015-2016,2.0,Jamie Vardy,Leicester City,24.0
+2015-2016,4.0,Romelu Lukaku,Everton,18.0
+2015-2016,5.0,Riyad Mahrez,Leicester City,17.0
+2015-2016,6.0,Olivier Giroud,Arsenal,16.0
+2015-2016,7.0,Jermain Defoe,Sunderland,15.0
+2015-2016,7.0,Odion Ighalo,Watford,15.0
+2015-2016,9.0,Troy Deeney,Watford,13.0
+2015-2016,9.0,Alexis Sánchez,Arsenal,13.0
+2016-2017,1.0,Harry Kane,Tottenham Hotspur,29.0
+2016-2017,2.0,Romelu Lukaku,Everton,25.0
+2016-2017,3.0,Alexis Sánchez,Arsenal,24.0
+2016-2017,4.0,Diego Costa,Chelsea,20.0
+2016-2017,4.0,Sergio Agüero,Manchester City,20.0
+2016-2017,6.0,Dele Alli,Tottenham Hotspur,18.0
+2016-2017,7.0,Zlatan Ibrahimović,Manchester United,17.0
+2016-2017,8.0,Joshua King,Bournemouth,16.0
+2016-2017,8.0,Eden Hazard,Chelsea,16.0
+2016-2017,10.0,Fernando Llorente,Swansea City,15.0
+2016-2017,10.0,Jermain Defoe,Sunderland,15.0
+2016-2017,10.0,Christian Benteke,Crystal Palace,15.0
+2017-2018,1.0,Mohamed Salah,Liverpool,32.0
+2017-2018,2.0,Harry Kane,Tottenham Hotspur,30.0
+2017-2018,3.0,Sergio Agüero,Manchester City,21.0
+2017-2018,4.0,Jamie Vardy,Leicester City,20.0
+2017-2018,5.0,Raheem Sterling,Manchester City,18.0
+2017-2018,6.0,Romelu Lukaku,Manchester United,16.0
+2017-2018,7.0,Roberto Firmino,Liverpool,15.0
+2017-2018,8.0,Alexandre Lacazette,Arsenal,14.0
+2017-2018,9.0,Gabriel Jesus,Manchester City,13.0
+2017-2018,10.0,Eden Hazard,Chelsea,12.0
+2017-2018,10.0,Riyad Mahrez,Leicester City,12.0
+2017-2018,10.0,Glenn Murray,Brighton & Hove Albion,12.0
+2017-2018,10.0,Son Heung-min,Tottenham Hotspur,12.0
+2018-2019,1.0,Mohamed Salah,Liverpool,22.0
+2018-2019,1.0,Sadio Mané,Liverpool,22.0
+2018-2019,1.0,Pierre-Emerick Aubameyang,Arsenal,22.0
+2018-2019,4.0,Sergio Agüero,Manchester City,21.0
+2018-2019,5.0,Jamie Vardy,Leicester City,18.0
+2018-2019,6.0,Harry Kane,Tottenham Hotspur,17.0
+2018-2019,6.0,Raheem Sterling,Manchester City,17.0
+2018-2019,8.0,Eden Hazard,Chelsea,16.0
+2018-2019,9.0,Callum Wilson,Bournemouth,14.0
+2018-2019,10.0,Alexandre Lacazette,Arsenal,13.0
+2018-2019,10.0,Paul Pogba,Manchester United,13.0
+2018-2019,10.0,Richarlison,Everton,13.0
+2018-2019,10.0,Gylfi Sigurðsson,Everton,13.0
+2018-2019,10.0,Glenn Murray,Brighton & Hove Albion,13.0
+2018-2019,10.0,Raúl Jiménez,Wolverhampton Wanderers,13.0
+2019-2020,1.0,Jamie Vardy,Leicester City,23.0
+2019-2020,2.0,Pierre-Emerick Aubameyang,Arsenal,22.0
+2019-2020,2.0,Danny Ings,Southampton,22.0
+2019-2020,4.0,Raheem Sterling,Manchester City,20.0
+2019-2020,5.0,Mohamed Salah,Liverpool,19.0
+2019-2020,6.0,Harry Kane,Tottenham Hotspur,18.0
+2019-2020,6.0,Sadio Mané,Liverpool,18.0
+2019-2020,8.0,Raúl Jiménez,Wolverhampton Wanderers,17.0
+2019-2020,8.0,Anthony Martial,Manchester United,17.0
+2019-2020,8.0,Marcus Rashford,Manchester United,17.0
+2020-2021,1.0,Harry Kane,Tottenham Hotspur,23.0
+2020-2021,2.0,Mohamed Salah,Liverpool,22.0
+2020-2021,3.0,Bruno Fernandes,Manchester United,18.0
+2020-2021,4.0,Patrick Bamford,Leeds United,17.0
+2020-2021,4.0,Son Heung-min,Tottenham Hotspur,17.0
+2020-2021,6.0,Dominic Calvert-Lewin,Everton,16.0
+2020-2021,7.0,Jamie Vardy,Leicester City,15.0
+2020-2021,8.0,Ollie Watkins,Aston Villa,14.0
+2020-2021,9.0,İlkay Gündoğan,Manchester City,13.0
+2020-2021,9.0,Alexandre Lacazette,Arsenal,13.0
+2021-2022,1.0,Mohamed Salah,Liverpool,23.0
+2021-2022,1.0,Son Heung-min,Tottenham Hotspur,23.0
+2021-2022,3.0,Cristiano Ronaldo,Manchester United,18.0
+2021-2022,4.0,Harry Kane,Tottenham Hotspur,17.0
+2021-2022,5.0,Sadio Mané,Liverpool,16.0
+2021-2022,6.0,Kevin De Bruyne,Manchester City,15.0
+2021-2022,6.0,Diogo Jota,Liverpool,15.0
+2021-2022,6.0,Jamie Vardy,Leicester City,15.0
+2021-2022,9.0,Wilfried Zaha,Crystal Palace,14.0
+2021-2022,10.0,Raheem Sterling,Manchester City,13.0
+2022-2023,1.0,Erling Haaland,Manchester City,36.0
+2022-2023,2.0,Harry Kane,Tottenham Hotspur,30.0
+2022-2023,3.0,Ivan Toney,Brentford,20.0
+2022-2023,4.0,Mohamed Salah,Liverpool,19.0
+2022-2023,5.0,Callum Wilson,Newcastle United,18.0
+2022-2023,6.0,Marcus Rashford,Manchester United,17.0
+2022-2023,7.0,Gabriel Martinelli,Arsenal,15.0
+2022-2023,7.0,Martin Ødegaard,Arsenal,15.0
+2022-2023,7.0,Ollie Watkins,Aston Villa,15.0
+2022-2023,10.0,Aleksandar Mitrović,Fulham,14.0
+2022-2023,10.0,Bukayo Saka,Arsenal,14.0
+2023-2024,1.0,Erling Haaland,Manchester City,27.0
+2023-2024,2.0,Cole Palmer,Chelsea,22.0
+2023-2024,3.0,Alexander Isak,Newcastle United,21.0
+2023-2024,4.0,Phil Foden,Manchester City,19.0
+2023-2024,4.0,Dominic Solanke,Bournemouth,19.0
+2023-2024,4.0,Ollie Watkins,Aston Villa,19.0
+2023-2024,7.0,Mohamed Salah,Liverpool,18.0
+2023-2024,8.0,Son Heung-min,Tottenham Hotspur,17.0
+2023-2024,9.0,Jarrod Bowen,West Ham United,16.0
+2023-2024,9.0,Jean-Philippe Mateta,Crystal Palace,16.0
+2023-2024,9.0,Bukayo Saka,Arsenal,16.0
+2024-2025,1.0,Mohamed Salah,Liverpool,29.0
+2024-2025,2.0,Alexander Isak,Newcastle United,23.0
+2024-2025,3.0,Erling Haaland,Manchester City,22.0
+2024-2025,4.0,Bryan Mbeumo,Brentford,20.0
+2024-2025,4.0,Chris Wood,Nottingham Forest,20.0
+2024-2025,6.0,Yoane Wissa,Brentford,19.0
+2024-2025,7.0,Ollie Watkins,Aston Villa,16.0
+2024-2025,8.0,Matheus Cunha,Wolverhampton Wanderers,15.0
+2024-2025,8.0,Cole Palmer,Chelsea,15.0
+2024-2025,10.0,Jørgen Strand Larsen,Wolverhampton Wanderers,14.0
+2024-2025,10.0,Jean-Philippe Mateta,Crystal Palace,14.0
